@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomObjects.cs](./CS/Printing_Built-in_Example/CustomObjects.cs) (VB: [CustomObjects.vb](./VB/Printing_Built-in_Example/CustomObjects.vb))
+* [Form1.cs](./CS/Printing_Built-in_Example/Form1.cs) (VB: [Form1.vb](./VB/Printing_Built-in_Example/Form1.vb))
+* [MyDailyPrintStyle.cs](./CS/Printing_Built-in_Example/MyDailyPrintStyle.cs) (VB: [MyDailyPrintStyle.vb](./VB/Printing_Built-in_Example/MyDailyPrintStyle.vb))
+* [Program.cs](./CS/Printing_Built-in_Example/Program.cs) (VB: [Program.vb](./VB/Printing_Built-in_Example/Program.vb))
+<!-- default file list end -->
 # Printing: How to customize default print styles
 
 
